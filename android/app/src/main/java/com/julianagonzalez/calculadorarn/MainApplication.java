@@ -1,4 +1,6 @@
-package com.calculadoraios;
+// package com.calculadoraios;
+package com.julianagonzalez.calculadorarn;
+
 
 // react-native-splash-screen >= 0.3.1
 import org.devio.rn.splashscreen.SplashScreenReactPackage;

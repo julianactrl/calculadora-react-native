@@ -1,4 +1,5 @@
-package com.calculadoraios;
+// package com.calculadoraios;
+package com.julianagonzalez.calculadorarn;
 
 import android.os.Bundle; // here
 
